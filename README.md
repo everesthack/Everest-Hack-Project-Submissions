@@ -28,7 +28,7 @@ Infinity
 Dheeraj Shrestha, Bishodeep Dahal, Kaushtup Bista
 
 **Souce code:**
-[Github Repo] (https://github.com/Bishodeep/HackathonInfinityTeam)
+https://github.com/Bishodeep/HackathonInfinityTeam
 
 
 
@@ -48,6 +48,6 @@ New Horizon
 Sujeev Gyawali, Ayush Pandey, Safal Shrestha, Aabishkar Aryal
 
 **Souce code:**
-[Github Repo] (https://github.com/discoverayushnp/haggle)
+https://github.com/discoverayushnp/haggle
 
 
