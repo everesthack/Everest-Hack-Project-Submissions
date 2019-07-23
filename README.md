@@ -16,10 +16,10 @@ Our project is for visualization of health data. We are sing data to understand 
 
 **The problem it solves:**
 Locally elected representatives are able to make decisions on the health sectors: 
--Local decision 
--Availability of resources at the local level
--Local implementation 
--Local benefits
+* Local decision 
+* Availability of resources at the local level
+* Local implementation 
+* Local benefits
 
 **Team name:**
 Infinity 
