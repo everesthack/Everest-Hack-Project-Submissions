@@ -51,3 +51,30 @@ Sujeev Gyawali, Ayush Pandey, Safal Shrestha, Aabishkar Aryal
 https://github.com/discoverayushnp/haggle
 
 
+
+### We can See
+--------------------------------------
+
+**Elevator Pitch:**
+The product will not only allow blind people to detect objects in front of them but also detect pits in front of them.
+
+**The problem it solves:**
+Even today where technology rules, blind people rely on sticks or their pets (especially dogs) to walk in the street. It creates inconvenient to walk most of the times with the dog or a stick on their hand. They got hit by stones or small objects while walking on the street and sometimes they fall into pits or ladders. This particular product will help them to walk freely as a normal person does. They don't have to run into a problem of hitting a stone or nearby objects or people or even the pits in front of them.
+
+**Team name:**
+Team JARVIS
+
+**Team Members:**
+Shubham Joshi, Raman Lamichhane, Aakash Bhandari
+
+**Souce code:**
+https://github.com/Aakash12980/Team-JARVIS.git
+
+
+
+
+
+
+
+
+
