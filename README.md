@@ -531,3 +531,440 @@ Manish Bhatta, Sagar Uprety
 https://github.com/thegamechanger977/eHeath_Nepal
 
 
+### GHUMFIR 
+--------------------------------------
+**Elevator Pitch:**
+Click your trip
+
+**The problem it solves:**
+Our website is focussed for wanderers willing to take up an adventure and explore new places. It provides a platform to connect with like minds and form an active travel community and share experiences. One can add their desired trips and others can voluntarily join in different trips of their choce and enjoy their travel. One can also add their home stays located at their local areas so that travellers find it easy to access lodging, and also learn about the locality they are travelling.
+
+**Team name:** 
+Team Stack
+
+**Team Members:**
+Salina Dangol, Saurav Shrestha, Sanjay Maharjan, Nirisha Manandhar
+
+**Souce code:**
+https://github.com/Salinadanz/projecteverest.git
+
+
+### सजिलो पहुँच
+--------------------------------------
+**Elevator Pitch:**
+It is a web-based application which provides the services of ambulance and fire brigade.
+
+**The problem it solves:**
+Aims to minimize the casualties during emergency situations by optimizing the client's time. The main problem is that when there is fire or any emergency situation then there takes a lot of time redirecting the messages to the respective office. Hence, to ask the nearest destination for the emergency services, the application has been developed. It works to minimizes the loss as well.
+
+**Team name:**
+Innovia
+
+**Team Members:**
+Simran Bhandari, Pratima Giri, Neha Pandey, Neha Pokharel
+
+**Souce code:**
+https://github.com/nehapokharel/Sajilo-Pahuch
+
+
+### Medico
+--------------------------------------
+**Elevator Pitch:**
+Your doc on the walk
+
+**The problem it solves:**
+It solves the problem of hustle of standng in lines for doctor's appointment. Creates problem specially for elderly and weak people. Conventional, tedious way of getting appointment Patients getting deprived to know Doctor's timing.
+
+**Team name:**
+The Invictus Code
+
+**Team Members:**
+Bibek Subedi, Dilliram Adhikari, Dharaatee Shree Shrestha, Bimesh Shrestha
+
+**Souce code:**
+https://github.com/Dharatee/EverestHack-TIC
+
+
+### Factoid
+--------------------------------------
+**Elevator Pitch:**
+Fact-checking the Internet with Crowd Intelligence
+
+**The problem it solves:**
+The thing about the Internet is that anyone can post content on it, it's a double-edged sword really. With the liberty of information, there is also a lot of misinformation. People are quite vulnerable to this, especially children with undeveloped judgement, older generation new to the Internet.
+
+Our project aims to solve this issue to some extent. We have an ecosystem of tools and technologies that serves to ease people's daily Internet Content consumption, where fake and viral content are abound. We have a Web App and a Web Browser Extension that helps people evaluate the content on their screen in real time. This is the core featureset we have developed so far but the project actually has an extensive scope.
+
+This platform will also help enhance Critical Thinking Skill as people get more and more aware of their Content Consumption while using our tools; it has a pedagogical value as well in this regard.
+
+**Team name:**
+meh
+
+**Team Members:**
+Bikash Sapkota, Labin Ojha, Bhargab Acharaya, Sagar Budhathoki
+
+**Souce code:**
+https://github.com/bhrg3se/meh
+
+
+### E-Puja
+--------------------------------------
+**Elevator Pitch:**
+This is an online puja portal where people could request for puja online and we would perform the ritual for them.
+
+**The problem it solves:**
+There are many NRNs who wish to perform rituals in Nepal but are unable to do so because of the geographical differences. So, we are providing a channel for them to perform the rituals for them through the online portal.
+
+**Team name:**
+Recursion
+
+**Team Members:**
+Ravi Tamang, Subina Sharma Rajopadhyaya, Sunita Rana, Sushant Paudel
+
+**Souce code:**
+https://github.com/ravitmg/e-puja
+
+
+### Tour360
+--------------------------------------
+**Elevator Pitch:**
+Experience your dream vacation from your home.
+
+**The problem it solves:**
+Virtual Reality has been around for a while now but we have not really seen its implementation in tourism in Nepal. Nepal has a huge potential in tourism but we are not receiving enough tourists. A part of it is because there is no dedicated platform for a wholesome travel experience. Travelers have to wander between flight booking sites, hotel booking sites, guide booking sites and more to plan a complete trip. Moreover, virtual reality, which can be crucial for deciding a travel destination, has not been implemented into a dedicated platform. This has affected the number of tourists that flow into our country.
+
+**Team name:**
+Alpha Titans
+
+**Team Members:**
+Suparth Ghimire, Prajwol Tiwari, Pemba Norsang Sherpa, Aadarsha Acharya
+
+**Souce code:**
+https://github.com/adarshaacharya/Tour360
+
+
+### Open space
+--------------------------------------
+**Elevator Pitch:**
+This is the mobile and webbased application which help the user to find the nearby open space avaialbe in the case of the emergency with interactive way and map
+
+**The problem it solves:**
+It particulary solves where people have to make quick decision where to go in the case of emergency like flood, earthquakes and others. Apart from this, it will help to rescue government and non government agency to collect the realtime data of the most infected and needy place. This will also help the user to help others by posting additional unidentified places.
+
+**Team name:**
+NexaDev
+
+**Team Members:**
+Nishon Tandukar, sumit basnet, Amulya Acharya, Yuabaraj Poudel
+
+**Souce code:**
+- https://github.com/beeflux/drs
+- https://github.com/nishontan/ar-cam-everest-hack
+
+
+### LeafyStuff
+--------------------------------------
+**Elevator Pitch:**
+Best farming judgment, artificially
+
+**The problem it solves:**
+It streamlines the process of solving soil nutrition deficiency issues so that the optimum yield can be reached through a properly studied analysis of soil condition
+
+**Team name:**
+Team Heuristic
+
+**Team Members:**
+Manisha Bhandari, Bibash Pokharel, Aayush Poudel, prajin khadka
+
+**Souce code:**
+http://github.com/aayush-py/heuristics
+
+
+### Hamro Waste
+--------------------------------------
+**Elevator Pitch:**
+Nepal's Waste Portal
+
+**The problem it solves:**
+As we all know, the problem of waste management is very evident in Nepal. One of the major issues contributing to it is the information gap. There aren’t many websites in Nepal that are specifically dedicated in providing good quality content about waste management. Many Nepalese citizens are quite unaware about good sustainable practices. Filling that gap, HamroWaste aims to provide services like contemporary articles on waste issues, educational videos, waste calculator and the coverage of many events and trainings happening around. Our ultimate aim is to push Nepal near ‘Zero Waste’ through our web content.
+
+**Team name:**
+Team H2O
+
+**Team Members:**
+Dipesh Poudel, Bijaya Manandhar, Suman Tiwari, Aayush Phuyal
+
+**Souce code:**
+https://github.com/suman-tiwari/HamroWaste
+
+
+### Junkiri
+--------------------------------------
+**Elevator Pitch:**
+Shine light for development
+
+**The problem it solves:**
+With this platform we had aimed to solve problems that are there in the local level but are somewhat ignored in the community or the nation.Our product Junkiri solves two major problem that currently exists in the nation: 
+
+1) Problem Regarding Health Care : We were somewhat shocked by the data our mentors from biz shared with us and we took on the challenge to built a platform that visualizes the data for the executive of the states to help them make development plan easily and in more efficient way. The app classifies the healthcare sectors in tow categories logistic regression model predicts whether the health care is unto the mark or not.
+
+2) Water Scarcity : Water scarcity along with water waste is another problem that we looked to solve for this we analyzed rain data of past years and with user inputs such as rooftop type area we calculate the amount of water and money they save if they opt for rain water harvesting.
+
+**Team name:**
+404 Found
+
+**Team Members:**
+Anushka Maharjan, Sayal Baidya, Prayush Shrestha, Kusal Bista
+
+**Souce code:**
+https://github.com/404found-everesthack/junkiri
+
+
+### MEDASSIST
+--------------------------------------
+**Elevator Pitch:**
+Quick appointment with available Doctor and Lab Report retrieval and management through web
+
+**The problem it solves:**
+The issue it aims to solve is the wait time issue in hospitals where patients have to waste hours upon hours for a check up and at the same time it also tackles issues with lab reports and make things easier by allowing retrieval and storing of reports digitally on the web.
+
+We know how hectic hospital queus can be. Rather than sitting on a cold metal chair staring at a gloomy environment, we can just make appointment to a doctor from the comfort of our home and just go for the checkup at the given time. No more gloomy waits for anyone. Wasting time is nobody's forte and waiting for a turn in a queue is not a good thing for a world as fast paced as we see it now. So this webapp tends to overcome this issue by allowing users to make easy appointments with a doctor. And get things done faster.
+
+Similarly, Reports are another big hassle. It takes time and you never know when it will be ready. There must have been times for everyone of us where we went to grab our reports but we just had to leave back home empty handed cause nothing was ready yet. Also for sick patientes there are tons and tons of reports and its difficult to manage them all. As some reports may be very costly and losing them can be a big issue. This software allows users to retrieve reports through web as labs and users are directly conected. Also all the repots are saved in the web in a orderly fashion so one can grab it when he needs to.
+
+Overall, this software tends to save time and health of patients.
+
+**Team name:**
+Spark
+
+**Team Members:**
+Anamol Maharjan, Nishan Khanal, Anisha Chakradhar, Nihal Maskey
+
+**Souce code:**
+https://github.com/maskeynihal/MedAssist.git
+
+
+### Glass Governance
+--------------------------------------
+**Elevator Pitch:**
+Those who are in authority has responsibility to which they are accountable for
+
+**The problem it solves:**
+To overcome the problem of trust and irresponsibility, we have come with a grievance/complaint system which we integrate with the blockchain technology along with traditional webapp so that the authority are duly aware and accountable for the service they provide. Blockchain notrorious for very hard to hack/change data, holds a data once that cannot be modified on later date. This provide the trust issue on the data and they are replicated over the node so that they are consistent and always available.
+
+**Team name:**
+RHINO's
+
+**Team Members:**
+Ananta Raj Mishra, Bishal Paudel, Bijaya Khanal, Saugat Singh
+
+**Souce code:**
+- https://github.com/xerex09/GlassGovernanceBlockchainModule
+- https://github.com/xerex09/GlassGovernanceGrivenceModule
+
+
+### GIZ Health Analytics
+--------------------------------------
+**Elevator Pitch:**
+#germanembassychallenge #health_data #python #data_science #analytics #html #css #bootstrap #github
+
+**The problem it solves:**
+The SDG goal 3, ‘Good Health and Well Being’ targets to improve the vaccine coverage rate and reduce the maternal mortality rate. GIZ challenge focuses on achieving this within 2030. The provided data for GIZ challenge was data collected from survey in three municipalities and data from the HMIS in year 2017. With this data, our analysis helps the local authorities know the major challenges faced by the health centers of their municipality. These challenges are the key factors to reduce the immunization rate and institutional deliveries. Thus, they can take appropriate measures to mitigate those problems.
+
+**Team name:**
+The End
+
+**Team Members:**
+Kaushal Raj Mishra, Keshav Chaurasia, Jayshree Rathi
+
+**Souce code:**
+https://github.com/kaushu42/everest-hack-the-end/
+
+
+### Land Market
+--------------------------------------
+**Elevator Pitch:**
+No middleman, transparent land transactions
+
+**The problem it solves:**
+Normally there is a middleman in between traders to manage the trade of land that may cost a huge commission and may also lead to fraud. Through our project of “Land Contract” built in blockchain, it eliminates the need of middleman and since blockchain is highly secure, no any hacking/ leaking of data can be done. Since, the blocks in the blockchain can’t be alternated, the history of the whole land, buyers and seller can be found out so that no third party can claim of its ownership.
+
+**Team name:**
+CentralPerk
+
+**Team Members:**
+Priya Jha, Urmila Maharjan, Lakshya Pandit, Animesh Timsina
+
+**Souce code:**
+https://github.com/AnimeshTimsina/LandMarket
+
+
+### nepForm
+--------------------------------------
+**Elevator Pitch:**
+A web application that will let students and parents apply to schools, high schools, and colleges of their choosing via online registration
+
+**The problem it solves:**
+nepForm is aimed at students to help them have easier access to a school or college's admission forms and processes. In this day and age, we are getting used to relying on technology to solve every kind of problem that we might come across. For students living a long way from their choice of college or school, traveling all that distance just to collect one piece of paper or just to have an understanding of what kinds of courses the institution offers can be tedious, exhausting and time-consuming, especially when the student is applying to multiple institutions. Through this application, students and parents alike can collect information about schools and colleges of their choice and fill out admission forms for as many schools or colleges as they would like instead of visiting the institution in real life to collect and fill out their admission forms, saving them time and making the whole process way less hectic and stressful. This application can be of even more help to those living outside the valley and wishing to attend an institution inside the valley. Instead of traveling all that way for a single piece of paper, they can now apply to as many schools and/or colleges as they would like and as far away from their homes as they want. The main goal of this application is to make the applying process a lot easier by having everything a student will need, in one place.
+
+**Team name:**
+Wabi-Sabi
+
+**Team Members:**
+Riwaj Chalise, Shreya Sapkota, Siddhartha Neupane, Deeksha Dahal
+
+**Souce code:**
+https://github.com/Riwajchalise/everest-hackthon
+
+
+### Smartbin
+--------------------------------------
+**Elevator Pitch:**
+Smartbin Smartbin is well as the name suggests a "Smart" dustbin. A dustbin is calibrated as such that when it full, it sends a notification to the administrator handling the application.
+
+**The problem it solves:**
+1. Enviroment Cleanliness: Well, the main objective of Smartbin is to help in enviroment cleanliness. When the dustbin of any areas are full then the appropiate authority will be notified that wastage of that area needs to be collected.
+2. Increase the participation people in enviroment conservation: Wether by introducing incentives to the users when they fill the dustbin by certain degardable amount of waster or by just making them seperate degradable waste which can be actually helpful then the non degradable waste.
+3. Organic Fertilizers: The problem we face nowdays is of the using the factory manufactured fertilizers which are harmful for the crops and the land they grow on. The collected bio degradable waste can be converted into organic fertilizers which will very good for the crops and fertility of the land they grow on.
+
+**Team name:**
+Idealytic
+
+**Team Members:**
+Binod Banstola, Sitaram Poudel, Sahil KC, adarsha dhakal
+
+**Souce code:**
+- https://github.com/sahilkc/SmartBin
+- https://github.com/adarsha02/Smartbin
+
+
+### BlockToken
+--------------------------------------
+**Elevator Pitch:**
+Our project is a blockchain based application. It is both phone and web based app. The main concept of our app is to create a Life Coin like reward for people's involvement in voluntary activities.
+
+**The problem it solves:**
+The problem of middle man, difference in currency power and many more.
+
+**Team name:**
+TechJunkies
+
+**Team Members:**
+Apurba Pokharel, Krishna Nepali, Drishtant Regmi, Asmit Bhantana
+
+**Souce code:**
+- https://github.com/asmitbhantana/everest-hack-solidity
+- https://github.com/asmitbhantana/everest-hack-android
+
+
+### SajiloMart
+--------------------------------------
+**Elevator Pitch:**
+The project simplifies the shopping experience. The marts that implement this project, have customers who simply enter the mart, pick up his/her shopping goods and finally exits the mart skipping all.
+
+**The problem it solves:**
+At the present moment, shoppers tend to queue in order to pay their bills losing valuable time which gets only worse as the population explodes and the cost required to sustain a mart is high. Our product keeps the track of goods bought locally Our project skips the entire queue, bills the customers online automatically, allows customers to leave their wallets at home, reducing the risk of theft Challenges we ran into We struck by the dependencies of the deeplearning libraries of python and got struck in the evnironment error as well as dependicies which ultimately leads to kernel failure.As our platform is both web and app, with the implementation of neural nets and IOT devices, it was really tough to implement those all together.
+
+**Team name:**
+SajiloMart
+
+**Team Members:**
+JAY KISHAN PANJIYAR, Pravesh Gaire, Sajil Awale, Biplab Karki
+
+**Souce code:**
+https://github.com/BeepLoveKarki/sajilomart.git
+
+
+### Urban Bagaincha
+--------------------------------------
+**Elevator Pitch:**
+IoT, Farming and Urban Lifestyle
+
+**The problem it solves:**
+Opens a portal for farming to busy urban people in small space with very low time and care dedicated to it.
+
+**Team name:**
+Avartan
+
+**Team Members:**
+Nitisha Bhattarai, Sunita Gajurel, Raju Sharan, Krishna Sharma
+
+**Souce code:**
+https://github.com/akrishna602/Hack-Everest
+
+
+### KhojTalaash
+--------------------------------------
+**Elevator Pitch:**
+Finds lost object near your area
+
+**The problem it solves:**
+User can enter their lost item and get notifications of items found in that location.
+
+**Team name:**
+Hackaholics
+
+**Team Members:**
+Rabindra Regmi, Subash Tiwari, Shrawan Thapa, Sabal KC
+
+**Souce code:**
+https://github.com/Zeitgeisth/Harayo
+
+
+### TreasureNepal2020
+--------------------------------------
+**Elevator Pitch:**
+Creating Experiences
+
+**The problem it solves:**
+Despite of having beautiful places in Nepal,most of these places are in shadow due to lack of advertisements. Only popular and common places are getting tourist attraction.
+
+Having great potentials, places are losing their values, culture, architecture due to lack of tourist attention. Some culture are in the stage of extinction. Due to highlighted/popular some places, nearby other valuable paces are not getting proper attentions.
+
+**Team name:**
+Dracarys
+
+**Team Members:**
+Bikalpa Dhakal, Asmita Mallik, Sanjaya Shrestha, Shristi Shrestha
+
+**Souce code:**
+- https://github.com/theoctober19th/TreasureNepal2020-Backend
+- https://github.com/theoctober19th/TreasureNepal2020-Android
+
+
+### Technocrat
+--------------------------------------
+**Elevator Pitch:**
+Technocrat is an application that eliminates the hassle of having to perform data entry to digitize data collected using paper forms.
+
+**The problem it solves:**
+It takes manpower, time and money to employ Data Entry personnel to feed data from paper forms to computers. Technocrat helps to get rid of that.
+
+**Team name:**
+Team Imagine 
+
+**Team Members:**
+Ashok poudel, Sampanna Shrestha, Sagun Raj Lage
+
+**Souce code:**
+https://github.com/sagunraj/Technocrat.git
+
+
+### Dark Humor and emotional well being
+--------------------------------------
+**Elevator Pitch:**
+Dark humor is all fun and games untill it starts taking a toll on your personal life.
+
+**The problem it solves:**
+The facade persona people showcases in internet and the pressure to keeping up bring the severe consequences in mental state and emotional wellbeing. Many people are using the dark humor as a defence mechanism to shield up their trueself, so our project aims to constantly remind them of their unusual behavioural pattern.
+
+**Team name:**
+The Meme Team
+
+**Team Members:**
+Usha Shrestha, Samana Lawati, Suvechhaya Shrestha, Dipti Gautam
+
+**Souce code:**
+https://github.com/Deeptee/TheMemeTeam_EverestHack
+
+
