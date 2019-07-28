@@ -968,3 +968,26 @@ Usha Shrestha, Samana Lawati, Suvechhaya Shrestha, Dipti Gautam
 https://github.com/Deeptee/TheMemeTeam_EverestHack
 
 
+
+### Li-Chain
+--------------------------------------
+
+**Elevator Pitch:**
+A project to issue licenses in a decentralized, transparent and immutable way mitigating corruption using cutting edge Ethereum Blockchain and IPFS(Decentralized web protocol) technology.
+
+**The problem it solves:**
+Corruption is a major problem in developing countries like Nepal. Especially in the License registration process for automobiles, people are found issuing licenses giving bribes to the government officials. Also the fraud detection mechanism of licenses is not well established in the present context. Also for the registration process, people have to stand in a long queue in order to maintain security in the system. We have developed a blockchain-based solution to maintain the integrity and immutability of the different records that are necessary to issue a license like practical trial pass record and written exam record. We have built a smart contract in Ethereum network that automatically issues a license once the essential records are submitted to the blockchain contract so that no middle man can take bribe and mutate the records. A web Dapp is designed to make the registration process simple, secure and transparent. In addition, a Dapp is designed for the traffic police monitoring the trials of automobiles so records can be stored immutably. Once the essential records are recorded in the contract, license is automatically issued involving no middle man in the process hence removing corruption in between process.
+
+Also the icing over the cake is the use of IPFS (a distributed web protocol),the future of web, which is believed to replace the HTTP soon. With the heavy usage of IOT devices , the traffic over the network is escalating and load in server is increasing.IPFS and the Blockchain are a perfect match! We can address large amounts of data with IPFS, and place the immutable, permanent IPFS links into a blockchain transaction. This timestamps and secures your content, without having to put the data itself on the chain.
+
+To detect the fraud in the license, we have developed a Dapp for traffic police by which officers can scan the QR code on the license and immediately detect the genuineness of the license.
+
+**Team name:**
+Electrocoders
+
+**Team Members:**
+Anish Dulal, Nishesh Awale, Bibek Timsina, Mitesh Pandey
+
+**Souce code:**
+https://github.com/ElectroCoders/Li-Chain
+
